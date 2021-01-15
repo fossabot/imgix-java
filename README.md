@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-java?ref=badge_shield)
 
 `imgix-java` is a client library for generating image URLs with [imgix](https://www.imgix.com/).
 
@@ -294,3 +295,7 @@ gradle test
 ```
 
 Dependencies for running tests (junit, etc) are provided (in `test/lib` and referenced in the build config).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-java?ref=badge_large)
